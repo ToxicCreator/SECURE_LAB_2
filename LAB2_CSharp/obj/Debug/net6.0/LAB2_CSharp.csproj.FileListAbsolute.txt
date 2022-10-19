@@ -1,0 +1,15 @@
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\bin\Debug\net6.0\LAB2_CSharp.exe
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\bin\Debug\net6.0\LAB2_CSharp.deps.json
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\bin\Debug\net6.0\LAB2_CSharp.runtimeconfig.json
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\bin\Debug\net6.0\LAB2_CSharp.dll
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\bin\Debug\net6.0\LAB2_CSharp.pdb
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\LAB2_CSharp.csproj.AssemblyReference.cache
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\LAB2_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\LAB2_CSharp.AssemblyInfoInputs.cache
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\LAB2_CSharp.AssemblyInfo.cs
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\LAB2_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\LAB2_CSharp.dll
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\refint\LAB2_CSharp.dll
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\LAB2_CSharp.pdb
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\LAB2_CSharp.genruntimeconfig.cache
+C:\Users\1269124\Desktop\Latipov\LAB 2\LAB2_CSharp\LAB2_CSharp\obj\Debug\net6.0\ref\LAB2_CSharp.dll
